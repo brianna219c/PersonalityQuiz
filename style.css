@@ -1,5 +1,10 @@
 body {
-  font-family: "Helvetica"
+  background-color:rgb(161, 247, 252);
+  height:100vh;
+  background-size: cover;
+  background-position: center;
+}
 
-
+.button1{
+  margin-top: 25px;
 }
